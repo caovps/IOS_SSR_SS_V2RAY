@@ -7,8 +7,7 @@
 
 1. **下载软件安装包**
 2. **PC电脑上安装PP助手** https://pro.25pp.com/
-
-
+![1](https://github.com/caovps/IOS_SSR_SS_V2RAY/blob/master/images/1.png)
 3. **打开pp助手并连接到ios设备(iPad iPhone)**
 ![2](https://github.com/caovps/IOS_SSR_SS_V2RAY/blob/master/images/2.png)
 4. **点击左侧应用管理后点击安装本地应用**
