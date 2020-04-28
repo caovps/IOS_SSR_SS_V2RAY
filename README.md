@@ -10,8 +10,8 @@
 
 
 3. **打开pp助手并连接到ios设备(iPad iPhone)**
-![https://github.com/caovps/IOS_SSR_SS_V2RAY/blob/master/images/2.png]()
+![2](https://github.com/caovps/IOS_SSR_SS_V2RAY/blob/master/images/2.png)
 4. **点击左侧应用管理后点击安装本地应用**
-![https://github.com/caovps/IOS_SSR_SS_V2RAY/blob/master/images/3.png]()
-5. 选择下载好的ipa文件后点击安装即可成功安装
-![https://github.com/caovps/IOS_SSR_SS_V2RAY/blob/master/images/4.png]()
+![3](https://github.com/caovps/IOS_SSR_SS_V2RAY/blob/master/images/3.png)
+5. **选择下载好的ipa文件后点击安装即可成功安装**
+![4](https://github.com/caovps/IOS_SSR_SS_V2RAY/blob/master/images/4.png)
