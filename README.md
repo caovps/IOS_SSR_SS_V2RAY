@@ -14,7 +14,7 @@
 
    [下载地址](https://github.com/caovps/IOS_SSR_SS_V2RAY/raw/master/Shadowrocket_2.1.12%EF%BC%88%E6%AD%A3%E7%89%88%E5%85%8D%E9%AA%8C%E8%AF%81id%EF%BC%89.ipa)
 
-2. **PC电脑上安装助手**
+2. **PC电脑上安装爱思助手**
 
      ![1](https://github.com/caovps/IOS_SSR_SS_V2RAY/blob/master/images/1.png)
 
